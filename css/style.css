@@ -1,0 +1,17 @@
+:root {
+    --bgColor: rgb(59, 189, 155);
+}
+
+/* MAIN */
+main section:nth-child(odd) {
+    background-color: var(--bgColor);
+}
+
+hr {
+    border: 2px solid;
+    opacity: 100%;
+}
+
+hr.white {
+    background-color: white;
+}
