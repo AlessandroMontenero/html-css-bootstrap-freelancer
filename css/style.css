@@ -15,3 +15,8 @@ hr {
 hr.white {
     background-color: white;
 }
+
+hr.thin {
+    border: 0.1px solid;
+    opacity: 25%;
+}
